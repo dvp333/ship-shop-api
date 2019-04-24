@@ -1,4 +1,4 @@
-package com.example;
+package br.com.dvp.tcc.shipshop.api.model;
 
 import java.io.Serializable;
 
